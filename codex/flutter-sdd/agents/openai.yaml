@@ -1,0 +1,6 @@
+interface:
+  display_name: "SDD Flutter · Dart"
+  short_description: "Entrevista, specs y desarrollo Flutter con SDD"
+  default_prompt: "Usa $flutter-sdd para guiar el ciclo SDD de esta app Flutter con preguntas de una en una."
+policy:
+  allow_implicit_invocation: true
