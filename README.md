@@ -1,6 +1,6 @@
 # Flutter SDD para Codex y Claude Code
 
-Dos skills en español para aprender y aplicar **Spec-Driven Development con Flutter y Dart**. Siguen el método del curso de MoureDev aportado por el profesor: entrevista, constitución, spec, clarificación, plan, tareas, tests, implementación, validación y evolución.
+Dos skills en español para aprender y aplicar **Spec-Driven Development con Flutter y Dart**. Siguen el método: entrevista, constitución, spec, clarificación, plan, tareas, tests, implementación, validación y evolución.
 
 No es una app Flutter terminada ni un generador que decide el producto por ti. El agente propone y redacta; la persona revisa contratos, código y pruebas. Incluye 18 prompts, seis plantillas, auditor estructural y un ejemplo documental sin código implementado.
 
